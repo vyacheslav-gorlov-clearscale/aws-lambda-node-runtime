@@ -12,7 +12,7 @@
     "express": "^4.17.1"
   },
   "dependencies": {
-    "aws-lambda-node-runtime": "0.1.0",
-    "aws-sdk": "^2.889.0"
+    "aws-lambda-node-runtime": "^0.1.0",
+    "aws-sdk": "^2.1039.0"
   }
 }
